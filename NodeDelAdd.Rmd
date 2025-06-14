@@ -175,6 +175,7 @@ NodeDel(m1,0.5)
 ```
 
 ## Multiple node deletion
+Now do multiple node deletions.  Probably have to do larger data sets.
 
 # Git refresher
 
